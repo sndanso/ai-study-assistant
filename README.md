@@ -98,7 +98,7 @@ http://localhost:3000
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 * Add quiz question generation
 * Implement loading spinner animations
